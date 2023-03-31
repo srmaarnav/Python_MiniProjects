@@ -1,0 +1,1 @@
+A simple game using Python, maybe problem in showing score after the game.
